@@ -6,17 +6,17 @@
 
 .malgo {
 	font-family: "Noto Sans KR", sans-serif;
-	font-size: 18px;
-	color: #333;
+	font-size: 15px;
 }
 
 pre {
 	font-family: "Noto Sans KR", sans-serif;
-	font-size: 18px;
+	font-size: 15px;
 	background-color: #333;
-	color: "white";
+	color: #FFF;
+	border: 0px solid black;
 }
-
+	
 body {
 	font-family: 'Lato', sans-serif;
 	background: #333;
