@@ -312,6 +312,7 @@ a.animated-button.thar-one {
 	color: #fff;
 	cursor: pointer;
 	display: block;
+	text-align: center;
 	position: relative;
 	border: 2px solid #F7CA18;
 	transition: all 0.4s cubic-bezier(0.215, 0.61, 0.355, 1) 0s;
