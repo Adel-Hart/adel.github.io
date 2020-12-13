@@ -9,7 +9,14 @@
 .malgo {
 	font-family: "Noto Sans KR", sans-serif;
 	font-size: 18px;
-	color: "white";
+	color: #FFF;
+	background: #353535;
+}
+
+body {
+	font-family: 'Lato', sans-serif;
+	background: #353535;
+	color: #F7CA18;
 }
 
 }
